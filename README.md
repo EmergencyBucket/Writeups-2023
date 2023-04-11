@@ -11,3 +11,12 @@ This repository has Official and community Writeups for BucketCTF 2023.
 
 ---
 
+</div>
+
+## Web
+
+<img src="web.png" width=256 align="right">
+
+| Name                                                       | Author           | Difficulty | Solves |
+| ---------------------------------------------------------- | ---------------- | ---------- | ------ |
+| [Ping Check](web/ping-check/)                              | Mrxbox98         | Easy       | 134    |
