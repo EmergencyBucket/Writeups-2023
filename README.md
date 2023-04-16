@@ -20,3 +20,9 @@ This repository has Official and community Writeups for BucketCTF 2023.
 | Name                                                       | Author           | Difficulty | Solves |
 | ---------------------------------------------------------- | ---------------- | ---------- | ------ |
 | [Ping Check](web/ping-check/)                              | Mrxbox98         | Easy       | 134    |
+| [Auth](web/auth/)                                          | null             | Easy       | 105    |
+| [SQLi-1](web/SQLi-1/)                                      | Mrxbox98         | Easy       | 367    |
+| [SQLi-2](web/SQLi-2/)                                      | Mrxbox98         | Medium     | 310    |
+| [SQLi-3](web/SQLi-3/)                                      | Mrxbox98         | Hard       | 105    |
+| [SQLi-4](web/SQLi-4/)                                      | Mrxbox98         | Hard       | 55     |
+| [gif](web/gif/)                                            | Mrxbox98         | Hard       | 114    |
