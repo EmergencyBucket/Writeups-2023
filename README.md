@@ -26,3 +26,18 @@ This repository has Official and community Writeups for BucketCTF 2023.
 | [SQLi-3](web/SQLi-3/)                                      | Mrxbox98         | Hard       | 105    |
 | [SQLi-4](web/SQLi-4/)                                      | Mrxbox98         | Hard       | 55     |
 | [gif](web/gif/)                                            | Mrxbox98         | Hard       | 114    |
+
+## Crypto
+
+<img src="crypto.png" width=256 align="right">
+
+| Name                                                       | Author           | Difficulty | Solves |
+| ---------------------------------------------------------- | ---------------- | ---------- | ------ |
+| [Image](crypto/image/)                                     | Mrxbox98         | Hard       | 6      |
+| [Psychologically Random](crypto/Psychologically_random/)   | cogsworth64      | Hard       | 29     |
+| [SCAlloped Potatoes](crypto/SCAlloped_potatoes/)           | cogsworth64      | Medium     | 8      |
+| [Search 0](crypto/search0/)                                | SHAD0WV1RUS      | Easy       | 60     |
+| [Search 1](crypto/search1/)                                | SHAD0WV1RUS      | Medium     | 55     |
+| [Search 2](crypto/search2/)                                | SHAD0WV1RUS      | Hard       | 39     |
+| [Search 3](crypto/search3/)                                | SHAD0WV1RUS      | Hard       | 15     |
+| [TBDLCG](crypto/TBDLCG/)                                   | cogsworth64      | Easy       | 154    |
