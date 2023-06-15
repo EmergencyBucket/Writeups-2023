@@ -41,3 +41,17 @@ This repository has Official and community Writeups for BucketCTF 2023.
 | [Search 2](crypto/search2/)                                | SHAD0WV1RUS      | Hard       | 39     |
 | [Search 3](crypto/search3/)                                | SHAD0WV1RUS      | Hard       | 15     |
 | [TBDLCG](crypto/TBDLCG/)                                   | cogsworth64      | Easy       | 154    |
+
+## Rev
+
+<img src="rev.png" width=256 align="right">
+
+| Name                                                       | Author           | Difficulty | Solves |
+| ---------------------------------------------------------- | ---------------- | ---------- | ------ |
+| [Apps](rev/apps/)                                          | Mrxbox98         | Easy       | 319    |
+| [Schematic](rev/schematic/)                                | Mrxbox98         | Easy       | 108    |
+| [Tetris](rev/tetris/)                                      | cogsworth64      | Medium     | 68     |
+| [Random security](rev/random-security/)                    | Mrxbox98         | Medium     | 24     |
+| [licenseer](rev/licenseer/)                                | null             | Medium     | 23     |
+| [Troll](rev/troll/)                                        | Mrxbox98         | Hard       | 18     |
+| [Maze](rev/maze/)                                          | Mrxbox98         | Hard       | 11     |
